@@ -1,7 +1,11 @@
 {
+  "title": "Browserify plugin for Docpad",
   "name": "docpad-plugin-browserify",
   "version": "2.0.0",
-  "description": "Docpad plugin that bundles your client side JavaScript using browserify.",
+  "license": {
+    "type": "MIT"
+  },
+  "description": "Bundle your client side JavaScript using browserify for docpad.",
   "keywords": [
     "docpad",
     "docpad-plugin",
@@ -14,15 +18,29 @@
     "type": "git",
     "url": "http://github.com/crito/docpad-plugin-browserify.git"
   },
+  "homepage": "https://github.com/crito/docpad-plugin-browserify",
+  "author": "2013+ Christo Buschek <crito@cryptodrunks.net>",
   "maintainers": [
     "Christo Buschek <crito@cryptodrunks.net>"
   ],
   "dependencies": {
-    "browserify": "~2.36.1"
+    "browserify": "~2.36.1",
+    "coffee-script": "~1.6.3"
   },
   "engines": {
     "node": ">=0.8",
     "docpad": ">=6"
   },
-  "main": "./browserify.plugin.coffee"
+  "main": "./browserify.plugin.coffee",
+  "badges": {
+    "travis": true,
+    "npm": true,
+    "gittip": "crito"
+  },
+  "devDependencies": {
+    "projectz": "~0.2.7"
+  },
+  "contributors": [
+    "crito (https://github.com/crito)"
+  ]
 }
