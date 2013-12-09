@@ -1,6 +1,6 @@
 {
   "title": "Browserify plugin for Docpad",
-  "name": "docpad-plugin-browserify",
+  "name": "docpad-browserify-plugin",
   "version": "2.0.0",
   "license": {
     "type": "MIT"
@@ -12,13 +12,13 @@
     "browserify"
   ],
   "bugs": {
-    "url": "https://github.com/crito/docpad-plugin-browserify/issues"
+    "url": "https://github.com/crito/docpad-browserify-plugin/issues"
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/crito/docpad-plugin-browserify.git"
+    "url": "http://github.com/crito/docpad-browserify-plugin.git"
   },
-  "homepage": "https://github.com/crito/docpad-plugin-browserify",
+  "homepage": "https://github.com/crito/docpad-browserify-plugin",
   "author": "2013+ Christo Buschek <crito@cryptodrunks.net>",
   "maintainers": [
     "Christo Buschek <crito@cryptodrunks.net>"
@@ -40,7 +40,5 @@
   "devDependencies": {
     "projectz": "~0.2.7"
   },
-  "contributors": [
-    "crito (https://github.com/crito)"
-  ]
+  "contributors": []
 }
