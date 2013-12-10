@@ -45,6 +45,9 @@ plugins:
     inFiles: '/scripts/app.js'
     excludes: ['jquery']
 ```
+
+Both the `inFiles` and the `excludes` option can be either a string or an array of strings.
+
 <!-- HISTORY/ -->
 
 ## History
