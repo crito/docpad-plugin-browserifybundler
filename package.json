@@ -12,13 +12,13 @@
     "browserify"
   ],
   "bugs": {
-    "url": "https://github.com/crito/docpad-browserify-plugin/issues"
+    "url": "https://github.com/crito/docpad-plugin-browserifybundler/issues"
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/crito/docpad-browserify-plugin.git"
+    "url": "http://github.com/crito/docpad-plugin-browserifybundler.git"
   },
-  "homepage": "https://github.com/crito/docpad-browserify-plugin",
+  "homepage": "https://github.com/crito/docpad-plugin-browserifybundler",
   "author": "2013+ Christo Buschek <crito@cryptodrunks.net>",
   "maintainers": [
     "Christo Buschek <crito@cryptodrunks.net>"
