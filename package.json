@@ -1,6 +1,6 @@
 {
   "title": "Browserify plugin for Docpad",
-  "name": "docpad-browserify-plugin",
+  "name": "docpad-plugin-browserifybundler",
   "version": "2.0.0",
   "license": {
     "type": "MIT"
