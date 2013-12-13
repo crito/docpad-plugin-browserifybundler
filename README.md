@@ -83,8 +83,11 @@ No sponsors yet! Will you be the first?
 
 ### Contributors
 
-No contributors yet! Will you be the first?
-[Discover how you can contribute by heading on over to the `Contributing.md` file.](https://github.com/crito/docpad-plugin-browserifybundler/blob/master/Contributing.md#files)
+These amazing people have contributed code to this project:
+
+- crito (https://github.com/crito) - [view contributions](https://github.com/crito/docpad-plugin-browserifybundler/commits?author=crito)
+
+[Become a contributor!](https://github.com/crito/docpad-plugin-browserifybundler/blob/master/Contributing.md#files)
 
 <!-- /BACKERS -->
 

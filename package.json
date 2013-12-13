@@ -40,5 +40,7 @@
   "devDependencies": {
     "projectz": "~0.2.7"
   },
-  "contributors": []
+  "contributors": [
+    "crito (https://github.com/crito)"
+  ]
 }

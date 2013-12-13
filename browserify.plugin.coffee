@@ -5,8 +5,8 @@ isArray = Array.isArray || (value) ->
   return {}.toString.call(value) is '[object Array]'
 
 module.exports = (BasePlugin) ->
-  class BrowserifyPlugin extends BasePlugin
-    name: 'browserify'
+  class BrowserifybundlerPlugin extends BasePlugin
+    name: 'browserifybundler'
 
     config:
       outFile: '/scripts/app.js'
